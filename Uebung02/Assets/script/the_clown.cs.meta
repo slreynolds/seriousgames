@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 435fb481b79c2a247991be2411da65eb
+timeCreated: 1494350019
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_wallsound: {fileID: 8300000, guid: c006bffb7af93694e806b9ff867660b4, type: 3}
+  - m_hitsound: {fileID: 8300000, guid: f8bddc1c34e73f240a0b148195b4f76f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
