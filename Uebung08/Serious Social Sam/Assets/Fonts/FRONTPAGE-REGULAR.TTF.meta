@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 08cc91abf35ba6746b264af10c57b758
+timeCreated: 1498921165
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FrontPage
+  fontNames:
+  - FrontPage
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
